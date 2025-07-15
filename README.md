@@ -4,6 +4,12 @@ An advanced physics-based demonstration of true Voronoi cell expansion and shrin
 
 🔗 **[Live Demo](https://virtualorganics.github.io/Voronoi-Cell-Expansion-Shrink-Demo-X/)**
 
+## 📸 Demo Screenshot
+
+<img src="images/Demo.png" alt="Voronoi Cell Expansion-Shrink Demo" width="50%">
+
+*Interactive 3D visualization showing a Voronoi cell (blue) being shrunk with real-time physics simulation. The control panel allows adjustment of expansion/shrink parameters, visualization options, and cell selection.*
+
 ## 🎯 Overview
 
 This demo implements a **physics-based expansion system** where Voronoi cells can truly expand or shrink by applying forces to their neighbors. This creates realistic growth dynamics where:
