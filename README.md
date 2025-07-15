@@ -1,4 +1,4 @@
-# Voronoi Cell Expansion-Shrink Demo X
+# Voronoi Cell : Expansion - Shrink (Physics-Based)
 
 An advanced physics-based demonstration of true Voronoi cell expansion and shrinkage through neighbor interaction. Unlike the original demo that simply moves cells around, this implementation creates genuine expansion effects where growing cells physically push their neighbors away.
 
@@ -225,8 +225,10 @@ MIT License - See LICENSE file for details
 Built upon:
 * **[Voronoi-Cell-Expansion-Shrink-Demo](https://github.com/VirtualOrganics/Voronoi-Cell-Expansion-Shrink-Demo)**: Original concept
 * **[Fabric-of-Space-X](https://github.com/VirtualOrganics/Fabric-of-Space-X)**: Parent project
-* **Geogram** by Bruno Levy: Core geometric algorithms
-* **Three.js**: 3D visualization framework
+* **[Geogram](https://github.com/BrunoLevy/geogram)** by Bruno Levy - Core geometric algorithms
+* **[Three.js](https://github.com/mrdoob/three.js)** - 3D visualization framework  
+* **[Emscripten](https://emscripten.org/)** - WebAssembly compilation
+* **[Geogram-Three.js](https://github.com/VirtualOrganics/Geogram-Three.js)** - Foundation project
 
 ---
 
